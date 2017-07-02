@@ -71,7 +71,7 @@ The person with best test coverage will win a small present from the instructor 
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](https://github.com/ilentt/ilenticket/blob/master/demo/walkthrough.gif)
+![Video Walkthrough](https://github.com/ilentt/CoderTicket/blob/master/demo/walkthrough.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
