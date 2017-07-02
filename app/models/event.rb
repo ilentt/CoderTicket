@@ -15,7 +15,7 @@ class Event < ActiveRecord::Base
   end
 
   def self.search(search)
-  	#where("name || extended_html_description ILIKE ?", "%#{search}%").where("ends_at > ?", Time.now).published
-    where("name || extended_html_description ILIKE ?", "%#{search}%")
+  	where("name || extended_html_description ILIKE ?", "%#{search}%").where("ends_at > ?", Time.now).published
+    #where("name || extended_html_description ILIKE ?", "%#{search}%")
   end
 end
